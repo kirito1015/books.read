@@ -1,17 +1,82 @@
-<mxfile host="app.diagrams.net" modified="2021-12-15T02:49:38.473Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36" etag="URyJSJyREsVbs_Jmvy_8" version="15.9.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-20T01:57:43.988Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="Hz6_Dkq8koSjR6jS46Uj" version="15.9.6" type="github">
   <diagram id="MXw0cYcsGM257r_ZbbDP" name="Page-1">
-    <mxGraphModel dx="711" dy="463" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="996" dy="648" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Tlokxd7MjdnbNSqTjhvJ-3" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Tlokxd7MjdnbNSqTjhvJ-1" target="Tlokxd7MjdnbNSqTjhvJ-2">
+        <mxCell id="uacHUbi1trWL338XFEOj-30" value="" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=1;fontFamily=Garamond;fontSize=12;strokeColor=#FF66FF;fillColor=none;dashed=1;strokeWidth=1;dashPattern=1 4;" vertex="1" parent="1">
+          <mxGeometry x="509.5" y="251" width="198" height="309" as="geometry" />
+        </mxCell>
+        <mxCell id="uacHUbi1trWL338XFEOj-3" value="&lt;span&gt;苏珊·赖尔&lt;/span&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;shadow=0;glass=0;sketch=1;fontFamily=Garamond;fontSize=12;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="148" y="377" width="78" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="uacHUbi1trWL338XFEOj-4" value="安德鲁" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;shadow=0;glass=0;sketch=1;fontFamily=Garamond;fontSize=12;fontColor=default;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="154.13" y="450" width="65.75" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="uacHUbi1trWL338XFEOj-9" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Garamond;fontSize=12;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="uacHUbi1trWL338XFEOj-7" target="uacHUbi1trWL338XFEOj-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Tlokxd7MjdnbNSqTjhvJ-1" value="苏珊·赖尔" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;fillColor=#ffe6cc;strokeColor=#d79b00;glass=0;shadow=0;imageAspect=1;portConstraintRotation=0;connectable=1;allowArrows=1;perimeter=rectanglePerimeter;fontFamily=Garamond;" vertex="1" parent="1">
-          <mxGeometry x="89" y="244" width="85" height="40" as="geometry" />
+        <mxCell id="uacHUbi1trWL338XFEOj-10" value="夫妻" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Garamond;fontColor=default;" vertex="1" connectable="0" parent="uacHUbi1trWL338XFEOj-9">
+          <mxGeometry x="-0.314" y="1" relative="1" as="geometry">
+            <mxPoint y="5" as="offset" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="Tlokxd7MjdnbNSqTjhvJ-2" value="安德鲁" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;rounded=0;sketch=1;glass=0;shadow=0;fontFamily=Garamond;" vertex="1" parent="1">
-          <mxGeometry x="89" y="354" width="84" height="38" as="geometry" />
+        <mxCell id="uacHUbi1trWL338XFEOj-7" value="劳伦斯·特里赫恩" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;shadow=0;glass=0;sketch=1;fontFamily=Garamond;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="355" y="266" width="100" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="uacHUbi1trWL338XFEOj-8" value="波琳·特里赫恩" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;shadow=0;glass=0;sketch=1;fontFamily=Garamond;fontSize=12;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="355" y="344" width="101" height="42.5" as="geometry" />
+        </mxCell>
+        <mxCell id="uacHUbi1trWL338XFEOj-19" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Garamond;fontSize=12;fontColor=default;endArrow=none;endFill=0;startArrow=none;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="uacHUbi1trWL338XFEOj-11" target="uacHUbi1trWL338XFEOj-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uacHUbi1trWL338XFEOj-20" value="夫妻" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Garamond;fontColor=default;" vertex="1" connectable="0" parent="uacHUbi1trWL338XFEOj-19">
+          <mxGeometry x="0.1038" y="2" relative="1" as="geometry">
+            <mxPoint x="2" y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uacHUbi1trWL338XFEOj-11" value="塞西莉·特里赫恩" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;shadow=0;glass=0;sketch=0;fontFamily=Garamond;fontSize=12;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
+          <mxGeometry x="547" y="257" width="100" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="uacHUbi1trWL338XFEOj-13" value="丽莎·特里赫恩" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;shadow=0;glass=0;sketch=1;fontFamily=Garamond;fontSize=12;fontColor=default;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="549" y="351.25" width="100" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="uacHUbi1trWL338XFEOj-14" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;shadow=0;glass=0;sketch=1;fontFamily=Garamond;fontSize=12;fontColor=default;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="459" y="273" width="64" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="uacHUbi1trWL338XFEOj-15" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;shadow=0;glass=0;sketch=1;fontFamily=Garamond;fontSize=12;fontColor=default;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="515" y="269" width="20" height="112" as="geometry" />
+        </mxCell>
+        <mxCell id="uacHUbi1trWL338XFEOj-16" value="女儿" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;fontFamily=Garamond;fontSize=12;fillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="509.5" y="317" width="31" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="uacHUbi1trWL338XFEOj-18" value="艾登·麦克尼尔" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;shadow=0;glass=0;sketch=1;fontFamily=Garamond;fontSize=12;fontColor=default;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="552" y="168" width="95" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="uacHUbi1trWL338XFEOj-21" value="罗克珊娜" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;shadow=0;glass=0;sketch=1;fontFamily=Garamond;fontSize=12;fontColor=default;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="714.5" y="213" width="95" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="uacHUbi1trWL338XFEOj-23" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;shadow=0;glass=0;sketch=1;fontFamily=Garamond;fontSize=12;fontColor=default;strokeColor=#6c8ebf;fillColor=#dae8fc;size=0.5;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="647" y="184" width="56" height="96" as="geometry" />
+        </mxCell>
+        <mxCell id="uacHUbi1trWL338XFEOj-24" value="女儿" style="text;html=1;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=0;fontFamily=Garamond;fontSize=12;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="691" y="223.5" width="27" height="17" as="geometry" />
+        </mxCell>
+        <mxCell id="uacHUbi1trWL338XFEOj-28" value="" style="edgeStyle=none;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Garamond;fontSize=12;fontColor=default;endArrow=none;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="uacHUbi1trWL338XFEOj-25" target="uacHUbi1trWL338XFEOj-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="748" y="216" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uacHUbi1trWL338XFEOj-29" value="保姆" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontFamily=Garamond;fontColor=default;" vertex="1" connectable="0" parent="uacHUbi1trWL338XFEOj-28">
+          <mxGeometry x="-0.2885" y="1" relative="1" as="geometry">
+            <mxPoint y="11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="uacHUbi1trWL338XFEOj-25" value="埃洛伊丝·拉德玛尼" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;shadow=0;glass=0;sketch=1;fontFamily=Garamond;fontSize=12;fontColor=default;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="707.5" y="135" width="114" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="uacHUbi1trWL338XFEOj-33" value="斯蒂芬·科德莱斯库" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;shadow=0;glass=0;sketch=1;fontFamily=Garamond;fontSize=12;fontColor=default;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="543" y="438" width="112" height="38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
