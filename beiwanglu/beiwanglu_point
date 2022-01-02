@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-02T12:33:24.316Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="dp6psQ4xZfJFMaVWtKNi" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-02T12:34:44.167Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="P5VjFR9DPgtaTRHasRDp" version="16.1.0" type="github">
   <diagram id="gzioEFrJoo9EQ2_NT6mD" name="Page-1">
     <mxGraphModel dx="2113" dy="851" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -70,7 +70,7 @@
         <mxCell id="OrWJ75CmfRvBxHfdxpOQ-15" value="第六次碰面" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fontFamily=Comic Sans MS;fontSize=11;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="114" y="527" width="89" height="27.5" as="geometry" />
         </mxCell>
-        <mxCell id="OrWJ75CmfRvBxHfdxpOQ-16" value="在教室附近碰到二吉，修改记忆让他忘掉拍过照片的事。&lt;br&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;fontFamily=Comic Sans MS;fontSize=11;fontColor=#303030;" vertex="1" parent="1">
+        <mxCell id="OrWJ75CmfRvBxHfdxpOQ-16" value="在教室附近碰到二吉，修改记忆让他忘掉拍过照片的事。&lt;br&gt;与古田碰上" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;fontFamily=Comic Sans MS;fontSize=11;fontColor=#303030;" vertex="1" parent="1">
           <mxGeometry x="-328" y="526.5" width="444" height="28" as="geometry" />
         </mxCell>
         <mxCell id="OrWJ75CmfRvBxHfdxpOQ-17" value="猜测到是怪人。急需可以记录影像的装备，之后购买了数码相机，并且成功拍下了照片" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;fontFamily=Comic Sans MS;fontSize=11;fontColor=#303030;" vertex="1" parent="1">
