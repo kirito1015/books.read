@@ -1,19 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2022-01-02T12:34:44.167Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="P5VjFR9DPgtaTRHasRDp" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-02T14:55:04.492Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="NafURYB-RhJCCtB2IF2X" version="16.1.0" type="github">
   <diagram id="gzioEFrJoo9EQ2_NT6mD" name="Page-1">
     <mxGraphModel dx="2113" dy="851" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="EDgepg08YEiBPhkN6KtM-1" value="田村二吉" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fontFamily=Comic Sans MS;sketch=1;shadow=0;glass=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+        <mxCell id="EDgepg08YEiBPhkN6KtM-1" value="田村二吉" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fontFamily=Comic Sans MS;sketch=1;shadow=0;glass=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="210" y="160" width="82" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="EDgepg08YEiBPhkN6KtM-2" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Comic Sans MS;fontSize=15;fontColor=#474747;strokeWidth=2;strokeColor=#666666;startArrow=none;startFill=1;" parent="1" edge="1" source="OrWJ75CmfRvBxHfdxpOQ-6">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="162" y="227" as="sourcePoint" />
-            <mxPoint x="160" y="629" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="EDgepg08YEiBPhkN6KtM-4" value="云英光南" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=1;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;strokeColor=#d6b656;fillColor=#fff2cc;" parent="1" vertex="1">
+        <mxCell id="EDgepg08YEiBPhkN6KtM-4" value="云英光南" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=1;fontFamily=Comic Sans MS;fontSize=12;strokeColor=#b85450;fillColor=#f8cecc;" parent="1" vertex="1">
           <mxGeometry x="34.5" y="160" width="81.5" height="36" as="geometry" />
         </mxCell>
         <mxCell id="EDgepg08YEiBPhkN6KtM-5" value="云英光南在车站杀人未遂后跑到咖啡馆，修改了几个人的记忆为自己做不在场证明" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;fontFamily=Comic Sans MS;fontSize=11;fontColor=#303030;" parent="1" vertex="1">
@@ -49,17 +43,11 @@
         <mxCell id="OrWJ75CmfRvBxHfdxpOQ-10" value="二吉及时出现，并猜测到染谷是那个可以修改记忆的怪人" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;fontFamily=Comic Sans MS;fontSize=11;fontColor=#303030;" vertex="1" parent="1">
           <mxGeometry x="220" y="428" width="444" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="OrWJ75CmfRvBxHfdxpOQ-11" value="第四次碰面" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fontFamily=Comic Sans MS;fontSize=11;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="116" y="420" width="89" height="27.5" as="geometry" />
-        </mxCell>
         <mxCell id="OrWJ75CmfRvBxHfdxpOQ-2" value="第二次碰面" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fontFamily=Comic Sans MS;fontSize=11;fillColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="119" y="300" width="89" height="27.5" as="geometry" />
         </mxCell>
         <mxCell id="EDgepg08YEiBPhkN6KtM-7" value="第一次碰面" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fontFamily=Comic Sans MS;fontSize=11;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="116" y="246" width="89" height="27.5" as="geometry" />
-        </mxCell>
-        <mxCell id="OrWJ75CmfRvBxHfdxpOQ-12" value="第五次碰面" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fontFamily=Comic Sans MS;fontSize=11;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="116" y="470" width="89" height="27.5" as="geometry" />
         </mxCell>
         <mxCell id="OrWJ75CmfRvBxHfdxpOQ-13" value="再次来到教室附近，并与二吉搭讪" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;fontFamily=Comic Sans MS;fontSize=11;fontColor=#303030;" vertex="1" parent="1">
           <mxGeometry x="-328" y="469.5" width="444" height="28" as="geometry" />
@@ -67,14 +55,68 @@
         <mxCell id="OrWJ75CmfRvBxHfdxpOQ-14" value="猜测到是怪人。急需可以记录影像的装备，之后购买了数码相机，并且成功拍下了照片" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;fontFamily=Comic Sans MS;fontSize=11;fontColor=#303030;" vertex="1" parent="1">
           <mxGeometry x="220" y="475" width="444" height="28" as="geometry" />
         </mxCell>
+        <mxCell id="OrWJ75CmfRvBxHfdxpOQ-16" value="在教室附近碰到二吉，修改记忆让他忘掉拍过照片的事。&lt;br&gt;与古田隆一相撞，制造自己被古田打的假记忆，与二吉一起去古田别墅和解&lt;br&gt;在准备杀古田时，被二吉带来的几个人看到，只能修改他们的记忆" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;fontFamily=Comic Sans MS;fontSize=11;fontColor=#303030;" vertex="1" parent="1">
+          <mxGeometry x="-325" y="527" width="444" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OrWJ75CmfRvBxHfdxpOQ-17" value="二吉不放心古田，一起去别墅和解&lt;br&gt;被支开买去东西，因不放心他俩独处，临时叫了几个路人去别墅帮忙" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;fontFamily=Comic Sans MS;fontSize=11;fontColor=#303030;" vertex="1" parent="1">
+          <mxGeometry x="220" y="527" width="444" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="OrWJ75CmfRvBxHfdxpOQ-18" value="二吉与古田联系，以古田为诱饵，准备拍下证据怪人作案的证据。担心被怪人发现破绽，今天必须决出胜负" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;fontFamily=Comic Sans MS;fontSize=11;fontColor=#303030;" vertex="1" parent="1">
+          <mxGeometry x="-325" y="703" width="444" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="OrWJ75CmfRvBxHfdxpOQ-19" value="碰到古田，也发现了二吉。篡改古田记忆。之后便去找北川老师" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;fontFamily=Comic Sans MS;fontSize=11;fontColor=#303030;" vertex="1" parent="1">
+          <mxGeometry x="220" y="691.5" width="444" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OrWJ75CmfRvBxHfdxpOQ-21" value="" style="endArrow=block;html=1;rounded=0;fontFamily=Comic Sans MS;fontSize=15;fontColor=#474747;strokeWidth=2;strokeColor=#666666;startArrow=none;startFill=1;endFill=1;" edge="1" parent="1" source="OrWJ75CmfRvBxHfdxpOQ-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160.47241725175536" y="393.5" as="sourcePoint" />
+            <mxPoint x="159" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OrWJ75CmfRvBxHfdxpOQ-11" value="第四次碰面" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fontFamily=Comic Sans MS;fontSize=11;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="116" y="420" width="89" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="OrWJ75CmfRvBxHfdxpOQ-12" value="第五次碰面" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fontFamily=Comic Sans MS;fontSize=11;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="116" y="470" width="89" height="27.5" as="geometry" />
+        </mxCell>
         <mxCell id="OrWJ75CmfRvBxHfdxpOQ-15" value="第六次碰面" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fontFamily=Comic Sans MS;fontSize=11;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="114" y="527" width="89" height="27.5" as="geometry" />
         </mxCell>
-        <mxCell id="OrWJ75CmfRvBxHfdxpOQ-16" value="在教室附近碰到二吉，修改记忆让他忘掉拍过照片的事。&lt;br&gt;与古田碰上" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;fontFamily=Comic Sans MS;fontSize=11;fontColor=#303030;" vertex="1" parent="1">
-          <mxGeometry x="-328" y="526.5" width="444" height="28" as="geometry" />
+        <mxCell id="OrWJ75CmfRvBxHfdxpOQ-22" value="去教室的路上碰到怪人，一起去了楼屋顶。在屋顶上怪人坦白了一切，并且已经发现二吉的事情，两人大打出手。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;fontFamily=Comic Sans MS;fontSize=11;fontColor=#303030;" vertex="1" parent="1">
+          <mxGeometry x="-328" y="790" width="444" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="OrWJ75CmfRvBxHfdxpOQ-17" value="猜测到是怪人。急需可以记录影像的装备，之后购买了数码相机，并且成功拍下了照片" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;fontFamily=Comic Sans MS;fontSize=11;fontColor=#303030;" vertex="1" parent="1">
-          <mxGeometry x="220" y="527" width="444" height="28" as="geometry" />
+        <mxCell id="OrWJ75CmfRvBxHfdxpOQ-23" value="" style="endArrow=block;html=1;rounded=0;fontFamily=Comic Sans MS;fontSize=15;fontColor=#474747;strokeWidth=2;strokeColor=#666666;startArrow=oval;startFill=1;endFill=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="161.18" y="670" as="sourcePoint" />
+            <mxPoint x="160" y="960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="OrWJ75CmfRvBxHfdxpOQ-24" value="田村二吉" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fontFamily=Comic Sans MS;sketch=1;shadow=0;glass=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="32" y="642.25" width="82" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="OrWJ75CmfRvBxHfdxpOQ-25" value="云英光南" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=1;fontFamily=Comic Sans MS;fontSize=12;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="220" y="642.25" width="81.5" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="OrWJ75CmfRvBxHfdxpOQ-20" value="二吉主动&lt;br&gt;发起进攻" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fontFamily=Comic Sans MS;fontSize=11;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="116" y="707.75" width="89" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="OrWJ75CmfRvBxHfdxpOQ-26" value="发现了二吉的意图，企图在楼顶解决他" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;fontFamily=Comic Sans MS;fontSize=11;fontColor=#303030;" vertex="1" parent="1">
+          <mxGeometry x="220" y="782.25" width="444" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="OrWJ75CmfRvBxHfdxpOQ-27" value="发生冲突" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fontFamily=Comic Sans MS;fontSize=11;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="116" y="790" width="89" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="OrWJ75CmfRvBxHfdxpOQ-28" value="二吉躲到了一个屋里，但被云英发现，存储卡也被发现并销毁&lt;br&gt;正在对峙时北川老师来了，并且在上传学生视频时发现了二吉拍的证据" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;fontFamily=Comic Sans MS;fontSize=11;fontColor=#303030;" vertex="1" parent="1">
+          <mxGeometry x="-325" y="860" width="444" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="OrWJ75CmfRvBxHfdxpOQ-29" value="混乱时刻，老德赶到救下了他们，制服了云英" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;fontFamily=Comic Sans MS;fontSize=11;fontColor=#303030;" vertex="1" parent="1">
+          <mxGeometry x="-325" y="920" width="444" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="OrWJ75CmfRvBxHfdxpOQ-30" value="自己的事情被老师发现，准备先杀掉老师，再杀掉二吉" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;fontFamily=Comic Sans MS;fontSize=11;fontColor=#303030;" vertex="1" parent="1">
+          <mxGeometry x="220" y="860" width="444" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="OrWJ75CmfRvBxHfdxpOQ-31" value="老德可以模仿二吉的笔迹，一切事情结束后，二吉已无力记下事情的发展，最终由北川老师编排，老德代笔编写了事情的结局。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;fontFamily=Comic Sans MS;fontSize=11;fontColor=#303030;" vertex="1" parent="1">
+          <mxGeometry x="-325" y="980" width="875" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
