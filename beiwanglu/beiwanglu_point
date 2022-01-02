@@ -1,26 +1,62 @@
-<mxfile host="app.diagrams.net" modified="2021-12-28T12:53:16.839Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="WBRsnx_Rlat_1qa9EEFN" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-02T12:09:58.194Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="9cE0CRXpzgsIwdtJq7-0" version="16.1.0" type="github">
   <diagram id="gzioEFrJoo9EQ2_NT6mD" name="Page-1">
-    <mxGraphModel dx="996" dy="648" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1991" dy="770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="EDgepg08YEiBPhkN6KtM-1" value="田村二吉" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fontFamily=Comic Sans MS;sketch=1;shadow=0;glass=0;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
-          <mxGeometry x="54" y="161" width="82" height="34" as="geometry" />
+        <mxCell id="EDgepg08YEiBPhkN6KtM-1" value="田村二吉" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;fontFamily=Comic Sans MS;sketch=1;shadow=0;glass=0;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="210" y="160" width="82" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="EDgepg08YEiBPhkN6KtM-2" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Comic Sans MS;fontSize=15;fontColor=#474747;strokeWidth=2;strokeColor=#666666;startArrow=oval;startFill=1;" edge="1" parent="1">
+        <mxCell id="EDgepg08YEiBPhkN6KtM-2" value="" style="endArrow=classic;html=1;rounded=0;fontFamily=Comic Sans MS;fontSize=15;fontColor=#474747;strokeWidth=2;strokeColor=#666666;startArrow=none;startFill=1;" parent="1" edge="1" source="OrWJ75CmfRvBxHfdxpOQ-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="162" y="227" as="sourcePoint" />
+            <mxPoint x="160" y="629" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EDgepg08YEiBPhkN6KtM-4" value="云英光南" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=1;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;strokeColor=#d6b656;fillColor=#fff2cc;" parent="1" vertex="1">
+          <mxGeometry x="34.5" y="160" width="81.5" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="EDgepg08YEiBPhkN6KtM-5" value="云英光南在车站杀人未遂后跑到咖啡馆，修改了几个人的记忆为自己做不在场证明" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;fontFamily=Comic Sans MS;fontSize=11;fontColor=#303030;" parent="1" vertex="1">
+          <mxGeometry x="-330" y="243" width="444" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="EDgepg08YEiBPhkN6KtM-7" value="第一次碰面" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fontFamily=Comic Sans MS;fontSize=11;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="116" y="246" width="89" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="OrWJ75CmfRvBxHfdxpOQ-1" value="田村被修改记忆，认为云英在他来之前已经来到。但自己进入这家店的记忆已经消失，却记得云英在店里，发现有蹊跷。" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;fontFamily=Comic Sans MS;fontSize=11;fontColor=#303030;" vertex="1" parent="1">
+          <mxGeometry x="220" y="250" width="444" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="OrWJ75CmfRvBxHfdxpOQ-2" value="第二次碰面" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fontFamily=Comic Sans MS;fontSize=11;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="119" y="325" width="89" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="OrWJ75CmfRvBxHfdxpOQ-3" value="云英光南在电车上耍流氓，修改出手相助男性和被猥亵女孩的记忆，认为自己才是见义勇为者" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;fontFamily=Comic Sans MS;fontSize=11;fontColor=#303030;" vertex="1" parent="1">
+          <mxGeometry x="-330" y="332" width="444" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="OrWJ75CmfRvBxHfdxpOQ-4" value="二吉目睹了全过程，并推理出他就是上次杀人未遂的嫌犯，准备着手拍照片" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;fontFamily=Comic Sans MS;fontSize=11;fontColor=#303030;" vertex="1" parent="1">
+          <mxGeometry x="220" y="324.5" width="444" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="OrWJ75CmfRvBxHfdxpOQ-5" value="光南在说话技巧教室附近杀人，修改目击者的记忆" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;fontFamily=Comic Sans MS;fontSize=11;fontColor=#303030;" vertex="1" parent="1">
+          <mxGeometry x="-330" y="400" width="444" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="OrWJ75CmfRvBxHfdxpOQ-6" value="第三次碰面" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fontFamily=Comic Sans MS;fontSize=11;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="116" y="400" width="89" height="27.5" as="geometry" />
+        </mxCell>
+        <mxCell id="OrWJ75CmfRvBxHfdxpOQ-7" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Comic Sans MS;fontSize=15;fontColor=#474747;strokeWidth=2;strokeColor=#666666;startArrow=oval;startFill=1;" edge="1" parent="1" target="OrWJ75CmfRvBxHfdxpOQ-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="162" y="227.0000000000001" as="sourcePoint" />
             <mxPoint x="168" y="629" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="EDgepg08YEiBPhkN6KtM-4" value="云英光南" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=1;fontFamily=Comic Sans MS;fontSize=12;fontColor=default;strokeColor=#d6b656;fillColor=#fff2cc;" vertex="1" parent="1">
-          <mxGeometry x="182" y="161" width="81.5" height="36" as="geometry" />
+        <mxCell id="OrWJ75CmfRvBxHfdxpOQ-8" value="二吉再次被修改记忆。由于事先知道要被修改，模糊的记得被修改时听到的话" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;fontFamily=Comic Sans MS;fontSize=11;fontColor=#303030;" vertex="1" parent="1">
+          <mxGeometry x="220" y="399.5" width="444" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="EDgepg08YEiBPhkN6KtM-5" value="光南在车站杀人未遂后跑到餐饮店，修改了几个人的记忆做自己的不在场证明" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;fontFamily=Comic Sans MS;fontSize=11;fontColor=#303030;" vertex="1" parent="1">
-          <mxGeometry x="224" y="245.5" width="444" height="28" as="geometry" />
+        <mxCell id="OrWJ75CmfRvBxHfdxpOQ-9" value="化名为染谷，向北川京子咨询上次坠楼杀人事件并对京子意图不轨" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;fontFamily=Comic Sans MS;fontSize=11;fontColor=#303030;" vertex="1" parent="1">
+          <mxGeometry x="-328" y="460" width="444" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="EDgepg08YEiBPhkN6KtM-7" value="第一次碰面" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fontFamily=Comic Sans MS;fontSize=11;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="116" y="246" width="89" height="27.5" as="geometry" />
+        <mxCell id="OrWJ75CmfRvBxHfdxpOQ-10" value="二吉及时出现，并猜测到染谷是哪个可以修改记忆的怪人" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;glass=0;sketch=1;fontFamily=Comic Sans MS;fontSize=11;fontColor=#303030;" vertex="1" parent="1">
+          <mxGeometry x="220" y="460" width="444" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="OrWJ75CmfRvBxHfdxpOQ-11" value="第四次碰面" style="rounded=0;whiteSpace=wrap;html=1;shadow=0;glass=0;sketch=0;fontFamily=Comic Sans MS;fontSize=11;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="119" y="460" width="89" height="27.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
