@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-16T03:26:56.494Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="zNdu0cnamEUI1Roet9pW" version="16.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-16T03:30:57.824Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="sqprtyj_zSWOpDK1PIJw" version="16.2.7" type="github">
   <diagram id="lh8hDAflFcDKO-PEYpGf" name="Page-1">
     <mxGraphModel dx="1252" dy="808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -59,7 +59,7 @@
         <mxCell id="HBpwvR4IjdDxbwPWC7km-6" value="相仓久美" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;" parent="1" vertex="1">
           <mxGeometry x="215" y="580" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HBpwvR4IjdDxbwPWC7km-9" value="上田一哉" style="whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;rounded=1;sketch=1;" parent="1" vertex="1">
+        <mxCell id="HBpwvR4IjdDxbwPWC7km-9" value="上田一哉&lt;br&gt;被害者" style="whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;rounded=1;sketch=1;" parent="1" vertex="1">
           <mxGeometry x="30" y="475" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="y3THyuRNtBfS03ENWsE7-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="HBpwvR4IjdDxbwPWC7km-12" target="HBpwvR4IjdDxbwPWC7km-26">
@@ -96,10 +96,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HBpwvR4IjdDxbwPWC7km-19" value="日下瞬&lt;br&gt;医科大学学生" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;sketch=1;" parent="1" vertex="1">
-          <mxGeometry x="385" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="205" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HBpwvR4IjdDxbwPWC7km-20" value="户饲正树&lt;br&gt;东京大学学生" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;sketch=1;" parent="1" vertex="1">
-          <mxGeometry x="565" y="80" width="120" height="60" as="geometry" />
+          <mxGeometry x="385" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HBpwvR4IjdDxbwPWC7km-23" value="嘉彦&lt;br&gt;学生" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;" parent="1" vertex="1">
           <mxGeometry x="30" y="316.25" width="100" height="33.75" as="geometry" />
@@ -111,7 +111,7 @@
           <mxGeometry x="385" y="210" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HBpwvR4IjdDxbwPWC7km-30" value="斜屋" style="text;html=1;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;" parent="1" vertex="1">
-          <mxGeometry x="101" y="163" width="60" height="30" as="geometry" />
+          <mxGeometry x="101" y="150" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HBpwvR4IjdDxbwPWC7km-31" value="大熊&lt;br&gt;警察" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;sketch=1;" parent="1" vertex="1">
           <mxGeometry x="700" y="562" width="95" height="45" as="geometry" />
