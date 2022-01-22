@@ -1,11 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2022-01-16T03:30:57.824Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="sqprtyj_zSWOpDK1PIJw" version="16.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-22T02:40:30.650Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="Mwn9rAqD5qPw0pCeellK" version="16.2.7" type="github">
   <diagram id="lh8hDAflFcDKO-PEYpGf" name="Page-1">
-    <mxGraphModel dx="1252" dy="808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2079" dy="808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="QhgtQVxIqn2LwHONb7wN-4" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="455" y="420" width="295" height="280" as="geometry" />
+        </mxCell>
         <mxCell id="HBpwvR4IjdDxbwPWC7km-29" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fillColor=none;strokeColor=#67AB9F;" parent="1" vertex="1">
-          <mxGeometry x="10" y="163" width="760" height="230" as="geometry" />
+          <mxGeometry x="10" y="163" width="670" height="230" as="geometry" />
         </mxCell>
         <mxCell id="HBpwvR4IjdDxbwPWC7km-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HBpwvR4IjdDxbwPWC7km-1" target="HBpwvR4IjdDxbwPWC7km-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -53,19 +56,19 @@
             <mxPoint x="6" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HBpwvR4IjdDxbwPWC7km-5" value="菊冈荣吉&lt;br&gt;菊冈轴承董事" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;" parent="1" vertex="1">
-          <mxGeometry x="205" y="475" width="110" height="50" as="geometry" />
+        <mxCell id="HBpwvR4IjdDxbwPWC7km-5" value="菊冈荣吉&lt;br&gt;菊冈轴承董事&lt;br&gt;第二名被害者" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;sketch=0;" parent="1" vertex="1">
+          <mxGeometry x="125" y="440" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="HBpwvR4IjdDxbwPWC7km-6" value="相仓久美" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;" parent="1" vertex="1">
-          <mxGeometry x="215" y="580" width="90" height="40" as="geometry" />
+          <mxGeometry x="135" y="545" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HBpwvR4IjdDxbwPWC7km-9" value="上田一哉&lt;br&gt;被害者" style="whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;rounded=1;sketch=1;" parent="1" vertex="1">
-          <mxGeometry x="30" y="475" width="100" height="50" as="geometry" />
+        <mxCell id="HBpwvR4IjdDxbwPWC7km-9" value="上田一哉&lt;br&gt;第一名被害者" style="whiteSpace=wrap;html=1;fillColor=#fad9d5;strokeColor=#ae4132;rounded=1;sketch=0;" parent="1" vertex="1">
+          <mxGeometry x="-50" y="440" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="y3THyuRNtBfS03ENWsE7-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="HBpwvR4IjdDxbwPWC7km-12" target="HBpwvR4IjdDxbwPWC7km-26">
+        <mxCell id="y3THyuRNtBfS03ENWsE7-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="1" source="HBpwvR4IjdDxbwPWC7km-12" target="HBpwvR4IjdDxbwPWC7km-26" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="y3THyuRNtBfS03ENWsE7-2" value="夫妻" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="y3THyuRNtBfS03ENWsE7-1">
+        <mxCell id="y3THyuRNtBfS03ENWsE7-2" value="夫妻" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="y3THyuRNtBfS03ENWsE7-1" vertex="1" connectable="0">
           <mxGeometry y="-3" relative="1" as="geometry">
             <mxPoint x="-3" y="-2" as="offset" />
           </mxGeometry>
@@ -82,10 +85,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HBpwvR4IjdDxbwPWC7km-13" value="金井道男" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;" parent="1" vertex="1">
-          <mxGeometry x="390" y="480" width="90" height="40" as="geometry" />
+          <mxGeometry x="310" y="445" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HBpwvR4IjdDxbwPWC7km-16" value="初江" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;sketch=1;" parent="1" vertex="1">
-          <mxGeometry x="390" y="580" width="90" height="40" as="geometry" />
+          <mxGeometry x="310" y="545" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HBpwvR4IjdDxbwPWC7km-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HBpwvR4IjdDxbwPWC7km-19" target="HBpwvR4IjdDxbwPWC7km-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -114,13 +117,22 @@
           <mxGeometry x="101" y="150" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HBpwvR4IjdDxbwPWC7km-31" value="大熊&lt;br&gt;警察" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;sketch=1;" parent="1" vertex="1">
-          <mxGeometry x="700" y="562" width="95" height="45" as="geometry" />
+          <mxGeometry x="620" y="450" width="95" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="y3THyuRNtBfS03ENWsE7-3" value="牛越佐武郎&lt;br&gt;警察" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="700" y="475" width="95" height="45" as="geometry" />
+        <mxCell id="y3THyuRNtBfS03ENWsE7-3" value="牛越佐武郎&lt;br&gt;警察" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;sketch=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="540" width="95" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="y3THyuRNtBfS03ENWsE7-4" value="尾崎&lt;br&gt;警察" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;sketch=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="480" width="95" height="45" as="geometry" />
+        <mxCell id="y3THyuRNtBfS03ENWsE7-4" value="尾崎&lt;br&gt;警察" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;sketch=1;" parent="1" vertex="1">
+          <mxGeometry x="480" y="450" width="95" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="QhgtQVxIqn2LwHONb7wN-1" value="阿南&lt;br&gt;警察" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="540" width="95" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="QhgtQVxIqn2LwHONb7wN-2" value="御手洗&lt;br&gt;警察" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="620" width="95" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="QhgtQVxIqn2LwHONb7wN-3" value="石冈君&lt;br&gt;我" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="620" width="95" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
