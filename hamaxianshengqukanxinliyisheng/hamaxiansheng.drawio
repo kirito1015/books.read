@@ -1,11 +1,50 @@
-<mxfile host="app.diagrams.net" modified="2022-01-27T10:30:25.516Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="WmxGj1zbnvrNrPw3uOpl" version="16.4.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-27T11:52:04.682Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="JDeh1cPh-NvOAtbFdWNe" version="16.4.7" type="github">
   <diagram id="YAn2_cSFBUAaXqbegalO" name="Page-1">
-    <mxGraphModel dx="991" dy="648" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="513" dy="407" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="PdnqpYk0i5iZqw5W2xue-2" value="&lt;h1&gt;Heading&lt;/h1&gt;&lt;p&gt;抑郁的原因&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="39" y="65" width="593" height="130" as="geometry" />
+        <mxCell id="PdnqpYk0i5iZqw5W2xue-2" value="&lt;h1&gt;抑郁的原因&lt;/h1&gt;&lt;div&gt;因干过蠢事而被别人议论&lt;/div&gt;&lt;div&gt;别人对待自己的态度：被批评指责、被骂、被羞辱&lt;/div&gt;&lt;div&gt;自己处在的状态：不快乐、悲惨、内疚，如同儿童状态&lt;/div&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="39" y="65" width="331" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="PdnqpYk0i5iZqw5W2xue-3" value="&lt;h1&gt;儿童自我状态&lt;/h1&gt;&lt;div&gt;由童年残留的遗迹搭建而成，包含小时候体验过的所有情感。&lt;/div&gt;&lt;div&gt;人进入儿童状态后，感受和行为和小时候的自己如出一辙。&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="39" y="195" width="354" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="PdnqpYk0i5iZqw5W2xue-4" value="" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;strokeColor=#67AB9F;" vertex="1" parent="1">
+          <mxGeometry x="464.5" y="177" width="99" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="PdnqpYk0i5iZqw5W2xue-5" value="快乐和深情" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="477" y="198" width="74" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="PdnqpYk0i5iZqw5W2xue-6" value="愤怒" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="478" y="232" width="74" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="PdnqpYk0i5iZqw5W2xue-7" value="悲伤" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="478" y="266" width="74" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="PdnqpYk0i5iZqw5W2xue-8" value="恐惧" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="478" y="303" width="74" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="PdnqpYk0i5iZqw5W2xue-10" value="儿童基本情感" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;fillColor=default;fontColor=#67AB9F;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="477" y="163" width="77" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="PdnqpYk0i5iZqw5W2xue-11" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;sketch=1;strokeColor=#67AB9F;fillColor=default;shadow=0;" vertex="1" parent="1">
+          <mxGeometry x="608" y="172" width="172" height="172" as="geometry" />
+        </mxCell>
+        <mxCell id="PdnqpYk0i5iZqw5W2xue-12" value="" style="endArrow=none;html=1;rounded=0;strokeColor=#67AB9F;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="615" y="258" as="sourcePoint" />
+            <mxPoint x="774" y="258" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PdnqpYk0i5iZqw5W2xue-13" value="儿童自我状态" style="text;html=1;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;fontColor=#67AB9F;" vertex="1" parent="1">
+          <mxGeometry x="658.5" y="135" width="77" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="PdnqpYk0i5iZqw5W2xue-14" value="自然型儿童" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="652.5" y="206" width="83" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="PdnqpYk0i5iZqw5W2xue-15" value="适应型儿童" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;shadow=0;sketch=1;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="652.5" y="281" width="83" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
