@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-30T03:36:48.093Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="7PCRD0rtt5Tv5XMcqzCV" version="16.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-30T04:35:44.903Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="IXJPfLE4Lgi4LOzMqoUp" version="16.5.0" type="github">
   <diagram id="YAn2_cSFBUAaXqbegalO" name="Page-1">
-    <mxGraphModel dx="1321" dy="864" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="862" dy="563" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -116,13 +116,13 @@
           <mxGeometry x="27" y="900" width="363" height="183" as="geometry" />
         </mxCell>
         <mxCell id="KK1YKbXmgcOjcq8LJDTx-22" value="父母" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;strokeColor=#7EA6E0;" vertex="1" parent="1">
-          <mxGeometry x="547" y="874" width="92" height="67" as="geometry" />
+          <mxGeometry x="540.75" y="873" width="92" height="67" as="geometry" />
         </mxCell>
         <mxCell id="KK1YKbXmgcOjcq8LJDTx-23" value="成人" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;strokeColor=#7EA6E0;" vertex="1" parent="1">
-          <mxGeometry x="549.5" y="948" width="92" height="67" as="geometry" />
+          <mxGeometry x="540.75" y="946" width="92" height="67" as="geometry" />
         </mxCell>
         <mxCell id="KK1YKbXmgcOjcq8LJDTx-24" value="儿童" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;strokeColor=#7EA6E0;" vertex="1" parent="1">
-          <mxGeometry x="549.5" y="1019" width="92" height="67" as="geometry" />
+          <mxGeometry x="540.75" y="1016" width="92" height="67" as="geometry" />
         </mxCell>
         <mxCell id="KK1YKbXmgcOjcq8LJDTx-25" value="&lt;h1&gt;人生故事&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;也许还有另一种活法，无需跟着预先设定的剧本走，甚至可以没有剧本，或者说，可以即兴发挥&lt;span&gt;。每一个全新的时刻都意味着独一无二的机会和挑战。所谓活得真实，就是真诚地回应当下的需求。&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="19" y="1071" width="363" height="127" as="geometry" />
