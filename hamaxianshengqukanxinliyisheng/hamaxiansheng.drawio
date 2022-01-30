@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-01-29T10:13:19.612Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="zvsG5B5ndQx8l5eEAYOP" version="16.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-30T03:14:20.527Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="qgAGqry5aDNI2z1J-wZf" version="16.5.0" type="github">
   <diagram id="YAn2_cSFBUAaXqbegalO" name="Page-1">
-    <mxGraphModel dx="915" dy="584" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1321" dy="864" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -123,6 +123,12 @@
         </mxCell>
         <mxCell id="KK1YKbXmgcOjcq8LJDTx-24" value="儿童" style="ellipse;whiteSpace=wrap;html=1;fontSize=14;strokeColor=#7EA6E0;" vertex="1" parent="1">
           <mxGeometry x="549.5" y="1019" width="92" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="KK1YKbXmgcOjcq8LJDTx-25" value="&lt;h1&gt;人生故事&lt;/h1&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;也许还有另一种活法，无需跟着预先设定的剧本走，甚至可以没有剧本，或者说，可以即兴发挥&lt;span&gt;。每一个全新的时刻都意味着独一无二的机会和挑战。所谓活得真实，就是真诚地回应当下的需求。&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="19" y="1071" width="363" height="127" as="geometry" />
+        </mxCell>
+        <mxCell id="KK1YKbXmgcOjcq8LJDTx-26" value="&lt;h1&gt;人生坐标与心理游戏&lt;/h1&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="19" y="1216" width="363" height="127" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
