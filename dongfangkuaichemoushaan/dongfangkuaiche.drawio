@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-01T11:57:05.942Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="r_A6lMQuDZ9S30IdyknB" version="16.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-01T14:57:24.303Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="bCxd8UhjCmCEvxcCgcAs" version="16.5.2" type="github">
   <diagram id="MlBCAPcGAkFOIGCXiuSW" name="Page-1">
-    <mxGraphModel dx="1088" dy="1872" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1564" dy="2179" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -26,14 +26,22 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HqvWkcDixMvHnZ1-jMWS-5" value="&lt;span style=&quot;font-family: &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , sans-serif ; text-align: -webkit-left&quot;&gt;约翰·阿巴思诺特上校&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , sans-serif ; text-align: -webkit-left&quot;&gt;英国人&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontColor=default;labelBackgroundColor=none;" parent="1" vertex="1">
+        <mxCell id="HqvWkcDixMvHnZ1-jMWS-5" value="&lt;span style=&quot;font-family: &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , sans-serif ; text-align: -webkit-left&quot;&gt;阿巴思诺特上校&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , sans-serif ; text-align: -webkit-left&quot;&gt;英国人&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontColor=default;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="476" y="145" width="125" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="HqvWkcDixMvHnZ1-jMWS-6" value="&lt;span style=&quot;font-family: &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , sans-serif ; text-align: -webkit-left&quot;&gt;卡罗琳·玛萨·哈巴特&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , sans-serif ; text-align: -webkit-left&quot;&gt;美国夫人&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , sans-serif ; text-align: -webkit-left&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontColor=default;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="679.5" y="571" width="116" height="61" as="geometry" />
+        <mxCell id="HqvWkcDixMvHnZ1-jMWS-6" value="&lt;span style=&quot;font-family: &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , sans-serif ; text-align: -webkit-left&quot;&gt;哈巴特&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , sans-serif ; text-align: -webkit-left&quot;&gt;美国夫人&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , sans-serif ; text-align: -webkit-left&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontColor=default;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="675" y="399" width="109.06" height="53" as="geometry" />
         </mxCell>
-        <mxCell id="HqvWkcDixMvHnZ1-jMWS-7" value="&lt;span style=&quot;font-family: &amp;quot;helvetica neue&amp;quot;, helvetica, arial, &amp;quot;pingfang sc&amp;quot;, &amp;quot;hiragino sans gb&amp;quot;, &amp;quot;microsoft yahei&amp;quot;, &amp;quot;wenquanyi micro hei&amp;quot;, sans-serif; text-align: -webkit-left;&quot;&gt;玛丽·德贝纳姆&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;quot;helvetica neue&amp;quot;, helvetica, arial, &amp;quot;pingfang sc&amp;quot;, &amp;quot;hiragino sans gb&amp;quot;, &amp;quot;microsoft yahei&amp;quot;, &amp;quot;wenquanyi micro hei&amp;quot;, sans-serif; text-align: -webkit-left;&quot;&gt;英国女教师&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontColor=default;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="681.75" y="341" width="111" height="56" as="geometry" />
+        <mxCell id="QgPp9RPT2WpYIM99cKjE-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="HqvWkcDixMvHnZ1-jMWS-7" target="DBjJSSzVIGZz-UhxyDz3-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QgPp9RPT2WpYIM99cKjE-18" value="上下铺" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QgPp9RPT2WpYIM99cKjE-17">
+          <mxGeometry x="0.1133" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="HqvWkcDixMvHnZ1-jMWS-7" value="&lt;span style=&quot;font-family: &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , sans-serif ; text-align: -webkit-left&quot;&gt;玛丽·德贝纳姆&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , sans-serif ; text-align: -webkit-left&quot;&gt;教师(英国人)&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontColor=default;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="675" y="309" width="111" height="56" as="geometry" />
         </mxCell>
         <mxCell id="cn9sds8N5PX_h7D6BUcy-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="HqvWkcDixMvHnZ1-jMWS-8" target="HqvWkcDixMvHnZ1-jMWS-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -61,6 +69,20 @@
             <mxPoint x="29" y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="QgPp9RPT2WpYIM99cKjE-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="HqvWkcDixMvHnZ1-jMWS-8" target="QgPp9RPT2WpYIM99cKjE-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="410" y="347" />
+              <mxPoint x="333" y="347" />
+              <mxPoint x="333" y="309" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QgPp9RPT2WpYIM99cKjE-10" value="受命保护" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QgPp9RPT2WpYIM99cKjE-9">
+          <mxGeometry x="0.0605" y="-2" relative="1" as="geometry">
+            <mxPoint y="3" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="HqvWkcDixMvHnZ1-jMWS-8" value="&lt;span style=&quot;background-color: rgb(255 , 255 , 255)&quot;&gt;&lt;font color=&quot;#333333&quot; face=&quot;helvetica neue, helvetica, arial, pingfang sc, hiragino sans gb, microsoft yahei, wenquanyi micro hei, sans-serif&quot;&gt;&lt;div&gt;赛缪尔·爱德华·雷切特&lt;/div&gt;&lt;div&gt;真名卡塞蒂&lt;/div&gt;&lt;div&gt;绑架案主谋(死者)&lt;/div&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;fillColor=#f8cecc;strokeColor=#b85450;align=center;" parent="1" vertex="1">
           <mxGeometry x="364" y="377" width="126" height="59" as="geometry" />
         </mxCell>
@@ -72,26 +94,34 @@
             <mxPoint x="1" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cn9sds8N5PX_h7D6BUcy-1" value="&lt;span style=&quot;text-align: -webkit-left&quot;&gt;&lt;font face=&quot;helvetica neue, helvetica, arial, pingfang sc, hiragino sans gb, microsoft yahei, wenquanyi micro hei, sans-serif&quot;&gt;娜塔丽亚·德拉戈米罗夫&lt;br&gt;&lt;/font&gt;俄国公主(法国人)&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontColor=default;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="679.5" y="223.5" width="127" height="58" as="geometry" />
+        <mxCell id="cn9sds8N5PX_h7D6BUcy-1" value="&lt;span style=&quot;text-align: -webkit-left&quot;&gt;&lt;font face=&quot;helvetica neue, helvetica, arial, pingfang sc, hiragino sans gb, microsoft yahei, wenquanyi micro hei, sans-serif&quot;&gt;德拉戈米罗夫&lt;br&gt;&lt;/font&gt;俄国公主(法国人)&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontColor=default;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="679.5" y="224.5" width="114.5" height="56.5" as="geometry" />
         </mxCell>
-        <mxCell id="cn9sds8N5PX_h7D6BUcy-2" value="&lt;span style=&quot;font-family: &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , sans-serif ; text-align: -webkit-left&quot;&gt;赫克托·威拉德·麦奎因&lt;br&gt;美国人(秘书)&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontColor=default;labelBackgroundColor=none;" parent="1" vertex="1">
+        <mxCell id="cn9sds8N5PX_h7D6BUcy-2" value="&lt;span style=&quot;font-family: &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , sans-serif ; text-align: -webkit-left&quot;&gt;麦奎因&lt;br&gt;美国人(秘书)&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontColor=default;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="477" y="267" width="122.5" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="cn9sds8N5PX_h7D6BUcy-3" value="&lt;span style=&quot;text-align: -webkit-left&quot;&gt;&lt;font face=&quot;helvetica neue, helvetica, arial, pingfang sc, hiragino sans gb, microsoft yahei, wenquanyi micro hei, sans-serif&quot;&gt;爱德华·亨利·马斯特曼&lt;/font&gt;&lt;br&gt;&lt;font face=&quot;helvetica neue, helvetica, arial, pingfang sc, hiragino sans gb, microsoft yahei, wenquanyi micro hei, sans-serif&quot;&gt;英国人&lt;/font&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontColor=default;labelBackgroundColor=none;" parent="1" vertex="1">
+        <mxCell id="QgPp9RPT2WpYIM99cKjE-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=none;endFill=0;" edge="1" parent="1" source="cn9sds8N5PX_h7D6BUcy-3" target="QgPp9RPT2WpYIM99cKjE-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QgPp9RPT2WpYIM99cKjE-13" value="上下铺" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QgPp9RPT2WpYIM99cKjE-12">
+          <mxGeometry x="0.0333" y="-1" relative="1" as="geometry">
+            <mxPoint x="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cn9sds8N5PX_h7D6BUcy-3" value="&lt;span style=&quot;text-align: -webkit-left&quot;&gt;&lt;font face=&quot;helvetica neue, helvetica, arial, pingfang sc, hiragino sans gb, microsoft yahei, wenquanyi micro hei, sans-serif&quot;&gt;马斯特曼&lt;/font&gt;&lt;br&gt;&lt;font face=&quot;helvetica neue, helvetica, arial, pingfang sc, hiragino sans gb, microsoft yahei, wenquanyi micro hei, sans-serif&quot;&gt;英国人&lt;/font&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontColor=default;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="485" y="488" width="117.5" height="56" as="geometry" />
         </mxCell>
         <mxCell id="cn9sds8N5PX_h7D6BUcy-6" value="辛普朗东方快车" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;" parent="1" vertex="1">
-          <mxGeometry x="27" y="-39" width="120" height="60" as="geometry" />
+          <mxGeometry x="394" y="-72" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cn9sds8N5PX_h7D6BUcy-7" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" edge="1">
+        <mxCell id="cn9sds8N5PX_h7D6BUcy-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1" target="QgPp9RPT2WpYIM99cKjE-32" source="QgPp9RPT2WpYIM99cKjE-22">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="46" y="71" as="sourcePoint" />
-            <mxPoint x="747" y="71" as="targetPoint" />
+            <mxPoint x="400" y="36" as="sourcePoint" />
+            <mxPoint x="816" y="36" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cn9sds8N5PX_h7D6BUcy-9" value="晚8:45&lt;br&gt;贝尔格莱德" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;" parent="1" vertex="1">
-          <mxGeometry x="209" y="21" width="71" height="30" as="geometry" />
+        <mxCell id="cn9sds8N5PX_h7D6BUcy-9" value="晚8:45到&lt;br&gt;贝尔格莱德" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;" parent="1" vertex="1">
+          <mxGeometry x="511" y="52" width="71" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cn9sds8N5PX_h7D6BUcy-10" value="&lt;span style=&quot;font-family: &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , sans-serif ; text-align: -webkit-left&quot;&gt;康斯坦汀&lt;br&gt;希腊医生&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontColor=default;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="465" y="569" width="111" height="56" as="geometry" />
@@ -99,14 +129,25 @@
         <mxCell id="cn9sds8N5PX_h7D6BUcy-11" value="&lt;span style=&quot;text-align: -webkit-left&quot;&gt;&lt;font face=&quot;helvetica neue, helvetica, arial, pingfang sc, hiragino sans gb, microsoft yahei, wenquanyi micro hei, sans-serif&quot;&gt;皮埃尔·米歇尔&lt;/font&gt;&lt;/span&gt;&lt;br style=&quot;font-family: &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , sans-serif ; text-align: -webkit-left&quot;&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , sans-serif ; text-align: -webkit-left&quot;&gt;加来车厢列车员&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , sans-serif ; text-align: -webkit-left&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontColor=default;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="320" y="569" width="111" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="cn9sds8N5PX_h7D6BUcy-21" value="斯坦布尔 - 加来车厢" style="rounded=1;whiteSpace=wrap;html=1;sketch=0;" parent="1" vertex="1">
-          <mxGeometry x="171" y="-39" width="124" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="DBjJSSzVIGZz-UhxyDz3-1" value="希尔德嘉德·施密特&lt;br&gt;&lt;span style=&quot;color: rgb(51 , 51 , 51) ; font-family: &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , sans-serif ; text-align: -webkit-left ; background-color: rgb(255 , 255 , 255)&quot;&gt;德国女佣&lt;/span&gt;" style="whiteSpace=wrap;html=1;rounded=1;sketch=1;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="901.75" y="227" width="112" height="52.5" as="geometry" />
         </mxCell>
+        <mxCell id="QgPp9RPT2WpYIM99cKjE-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="DBjJSSzVIGZz-UhxyDz3-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="784" y="426" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="920" y="426" />
+              <mxPoint x="784" y="426" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QgPp9RPT2WpYIM99cKjE-20" value="借用药" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QgPp9RPT2WpYIM99cKjE-19">
+          <mxGeometry x="0.0571" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="DBjJSSzVIGZz-UhxyDz3-4" value="&lt;span style=&quot;text-align: -webkit-left&quot;&gt;&lt;font face=&quot;helvetica neue, helvetica, arial, pingfang sc, hiragino sans gb, microsoft yahei, wenquanyi micro hei, sans-serif&quot;&gt;格丽塔·奥尔松&lt;br&gt;瑞典护士(山羊脸)&lt;/font&gt;&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontColor=default;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="679" y="446" width="116.5" height="55" as="geometry" />
+          <mxGeometry x="867" y="311" width="107" height="52" as="geometry" />
         </mxCell>
         <mxCell id="DBjJSSzVIGZz-UhxyDz3-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="DBjJSSzVIGZz-UhxyDz3-5" target="DBjJSSzVIGZz-UhxyDz3-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -116,11 +157,41 @@
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="DBjJSSzVIGZz-UhxyDz3-5" value="&lt;span style=&quot;&quot;&gt;&lt;font face=&quot;helvetica neue, helvetica, arial, pingfang sc, hiragino sans gb, microsoft yahei, wenquanyi micro hei, sans-serif&quot;&gt;&lt;div&gt;鲁道夫·安德雷尼伯爵&lt;/div&gt;&lt;div&gt;匈牙利外交官&lt;/div&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontColor=default;labelBackgroundColor=none;align=center;" parent="1" vertex="1">
+        <mxCell id="DBjJSSzVIGZz-UhxyDz3-5" value="&lt;span&gt;&lt;font face=&quot;helvetica neue, helvetica, arial, pingfang sc, hiragino sans gb, microsoft yahei, wenquanyi micro hei, sans-serif&quot;&gt;&lt;div&gt;安德雷尼伯爵&lt;/div&gt;&lt;div&gt;匈牙利外交官&lt;/div&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontColor=default;labelBackgroundColor=none;align=center;" parent="1" vertex="1">
           <mxGeometry x="681.75" y="145" width="116.5" height="55" as="geometry" />
         </mxCell>
         <mxCell id="DBjJSSzVIGZz-UhxyDz3-6" value="&lt;span&gt;&lt;font face=&quot;helvetica neue, helvetica, arial, pingfang sc, hiragino sans gb, microsoft yahei, wenquanyi micro hei, sans-serif&quot;&gt;埃伦娜·玛丽亚&lt;br&gt;伯爵夫人&lt;br&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontColor=default;labelBackgroundColor=none;align=center;" parent="1" vertex="1">
-          <mxGeometry x="893.75" y="142" width="119" height="63" as="geometry" />
+          <mxGeometry x="892" y="145.5" width="99.25" height="54" as="geometry" />
+        </mxCell>
+        <mxCell id="QgPp9RPT2WpYIM99cKjE-7" value="&lt;span style=&quot;font-family: &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , sans-serif ; text-align: -webkit-left&quot;&gt;哈德曼&lt;br&gt;侦探(美国人)&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="277" y="253" width="111" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="QgPp9RPT2WpYIM99cKjE-11" value="&lt;span style=&quot;font-family: &amp;#34;helvetica neue&amp;#34; , &amp;#34;helvetica&amp;#34; , &amp;#34;arial&amp;#34; , &amp;#34;pingfang sc&amp;#34; , &amp;#34;hiragino sans gb&amp;#34; , &amp;#34;microsoft yahei&amp;#34; , &amp;#34;wenquanyi micro hei&amp;#34; , sans-serif ; text-align: -webkit-left&quot;&gt;福斯卡雷利&lt;br&gt;意大利人(美国国籍)&lt;br&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="673.06" y="488" width="111" height="56" as="geometry" />
+        </mxCell>
+        <mxCell id="QgPp9RPT2WpYIM99cKjE-14" value="停在雪里" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="720" y="52" width="71" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QgPp9RPT2WpYIM99cKjE-22" value="&lt;span&gt;斯坦布尔&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="12" width="88" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="QgPp9RPT2WpYIM99cKjE-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;" edge="1" parent="1" source="QgPp9RPT2WpYIM99cKjE-23" target="QgPp9RPT2WpYIM99cKjE-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="QgPp9RPT2WpYIM99cKjE-23" value="阿勒颇" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="113" y="12" width="88" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="QgPp9RPT2WpYIM99cKjE-25" value="的里雅斯特" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="412.5" y="52" width="71" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QgPp9RPT2WpYIM99cKjE-26" value="加来车厢" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="511" y="89" width="71" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QgPp9RPT2WpYIM99cKjE-27" value="零点10分开&lt;br&gt;温科夫齐" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="624" y="52" width="71" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QgPp9RPT2WpYIM99cKjE-32" value="&lt;span&gt;伦敦&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="816" y="12" width="88" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
