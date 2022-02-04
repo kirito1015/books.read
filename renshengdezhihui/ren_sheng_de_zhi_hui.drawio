@@ -1,1 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2022-02-04T03:44:33.198Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" version="16.5.3" etag="KlJTetqa2endWDnAnfrZ" type="github"><diagram id="U5YjuOTAAwTqWy1RAcO5">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-02-04T03:56:56.698Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="kWyEy3JlIcNDUkZ8S93g" version="16.5.3" type="github">
+  <diagram id="U5YjuOTAAwTqWy1RAcO5" name="Page-1">
+    <mxGraphModel dx="1252" dy="808" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="D_tsojcrYBLYUK6kuMiD-1" value="&lt;h1&gt;基本的划分&lt;/h1&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="100" width="190" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="D_tsojcrYBLYUK6kuMiD-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D_tsojcrYBLYUK6kuMiD-2" target="D_tsojcrYBLYUK6kuMiD-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D_tsojcrYBLYUK6kuMiD-2" value="人的自身" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;sketch=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="294.75" y="100" width="118.5" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="D_tsojcrYBLYUK6kuMiD-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D_tsojcrYBLYUK6kuMiD-3" target="D_tsojcrYBLYUK6kuMiD-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D_tsojcrYBLYUK6kuMiD-3" value="人所拥有的身外之物" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;sketch=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="294" y="182" width="120" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="D_tsojcrYBLYUK6kuMiD-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="D_tsojcrYBLYUK6kuMiD-4" target="D_tsojcrYBLYUK6kuMiD-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="D_tsojcrYBLYUK6kuMiD-4" value="人向其他人所显示的样子" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;sketch=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="294" y="272" width="120" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="D_tsojcrYBLYUK6kuMiD-5" value="属于人的个性的东西，健康、力量、外貌、气质等" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;sketch=0;fillColor=none;strokeColor=none;align=left;" vertex="1" parent="1">
+          <mxGeometry x="540" y="100" width="231" height="53" as="geometry" />
+        </mxCell>
+        <mxCell id="D_tsojcrYBLYUK6kuMiD-7" value="所有意义上的占有物，财产等" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;shadow=0;sketch=1;strokeColor=none;align=left;" vertex="1" parent="1">
+          <mxGeometry x="538" y="179.5" width="222" height="60.5" as="geometry" />
+        </mxCell>
+        <mxCell id="D_tsojcrYBLYUK6kuMiD-9" value="其他人眼中所呈现的样子，人们对他的看法，名誉、地位和名声" style="whiteSpace=wrap;html=1;fillColor=none;rounded=1;shadow=0;sketch=1;strokeColor=none;align=left;" vertex="1" parent="1">
+          <mxGeometry x="540" y="269.5" width="223" height="58.5" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
