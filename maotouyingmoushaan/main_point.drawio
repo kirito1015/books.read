@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-12-28T12:32:19.204Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.110 Safari/537.36" etag="Ljw3zSUlXNjZsV81xnHj" version="16.1.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-12T13:45:07.960Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="E9G0ueGfNOftnkW5a4Fa" version="16.5.6" type="github">
   <diagram id="MXw0cYcsGM257r_ZbbDP" name="Page-1">
-    <mxGraphModel dx="2072" dy="810" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1965" dy="735" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -137,7 +137,7 @@
         <mxCell id="oo8Prl5hbCjf0k8FOTMF-11" value="&lt;span&gt;戈登·利思&lt;/span&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;shadow=0;glass=0;sketch=1;fontFamily=Garamond;fontSize=12;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
           <mxGeometry x="-780" y="550" width="78" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="oo8Prl5hbCjf0k8FOTMF-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;fontColor=#303030;exitX=0.1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;curved=1;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;entryX=0.625;entryY=0;entryDx=0;entryDy=0;" parent="1" source="oo8Prl5hbCjf0k8FOTMF-21" edge="1" target="uacHUbi1trWL338XFEOj-3">
+        <mxCell id="oo8Prl5hbCjf0k8FOTMF-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Comic Sans MS;fontColor=#303030;exitX=0.1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;curved=1;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=1;entryX=0.625;entryY=0;entryDx=0;entryDy=0;" parent="1" source="oo8Prl5hbCjf0k8FOTMF-21" target="uacHUbi1trWL338XFEOj-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-628" y="526" as="targetPoint" />
             <Array as="points">
@@ -156,46 +156,46 @@
         <mxCell id="oo8Prl5hbCjf0k8FOTMF-24" value="调查" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;notch=0;rounded=1;sketch=1;fontFamily=Comic Sans MS;strokeColor=#9999FF;" parent="1" vertex="1">
           <mxGeometry x="-576.12" y="467" width="112.12" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="FhepEYHY0lq0mqFYzFcG-2" value="布兰洛大酒店" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;gradientColor=#ffffff;strokeColor=none;fontColor=#FF3399;" vertex="1" parent="1">
+        <mxCell id="FhepEYHY0lq0mqFYzFcG-2" value="布兰洛大酒店" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;gradientColor=#ffffff;strokeColor=none;fontColor=#FF3399;" parent="1" vertex="1">
           <mxGeometry x="-313.75" y="190.25" width="87" height="38.5" as="geometry" />
         </mxCell>
-        <mxCell id="FhepEYHY0lq0mqFYzFcG-4" value="&lt;h1&gt;Heading&lt;/h1&gt;&lt;p&gt;&lt;span&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;塞西莉读了一本以发生在布兰洛大酒店的谋杀案为原型的悬疑小说，&lt;/span&gt;&lt;span&gt;发现8年前在酒店发生的谋杀案真正犯人另有其人。给父母打电话后，准备见面之前便失踪了。&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;white-space: pre&quot;&gt;	&lt;/span&gt;特里赫恩夫妇委托苏珊·赖而去调查其女儿塞西莉失踪案件。因为那本小说是由苏珊编辑出版的，而真正的作者已经去世。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#474747;" vertex="1" parent="1">
-          <mxGeometry x="-792" y="15" width="578" height="213" as="geometry" />
+        <mxCell id="FhepEYHY0lq0mqFYzFcG-4" value="&lt;h1&gt;Heading&lt;/h1&gt;&lt;p&gt;&lt;span&gt;&lt;span style=&quot;white-space: pre&quot;&gt; &lt;/span&gt;塞西莉读了一本以发生在布兰洛大酒店的谋杀案为原型的悬疑小说，&lt;/span&gt;&lt;span&gt;发现8年前在酒店发生的谋杀案真正犯人另有其人。给父母打电话后，准备见面之前便失踪了。&lt;/span&gt;&lt;/p&gt;&lt;p&gt;&lt;span style=&quot;white-space: pre&quot;&gt; &lt;/span&gt;特里赫恩夫妇委托苏珊·赖而去调查其女儿塞西莉失踪案件。因为那本小说是由苏珊编辑出版的，而真正的作者已经去世。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#474747;" parent="1" vertex="1">
+          <mxGeometry x="-792" y="15" width="578" height="173" as="geometry" />
         </mxCell>
-        <mxCell id="FhepEYHY0lq0mqFYzFcG-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#474747;" edge="1" parent="1" source="FhepEYHY0lq0mqFYzFcG-6" target="oo8Prl5hbCjf0k8FOTMF-7">
+        <mxCell id="FhepEYHY0lq0mqFYzFcG-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#474747;" parent="1" source="FhepEYHY0lq0mqFYzFcG-6" target="oo8Prl5hbCjf0k8FOTMF-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FhepEYHY0lq0mqFYzFcG-8" value="经常去水疗馆" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#474747;" vertex="1" connectable="0" parent="FhepEYHY0lq0mqFYzFcG-7">
+        <mxCell id="FhepEYHY0lq0mqFYzFcG-8" value="经常去水疗馆" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#474747;" parent="FhepEYHY0lq0mqFYzFcG-7" vertex="1" connectable="0">
           <mxGeometry x="-0.1433" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FhepEYHY0lq0mqFYzFcG-6" value="梅丽莎·詹姆斯" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;shadow=0;glass=0;sketch=1;fontFamily=Garamond;fontSize=12;fontColor=default;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+        <mxCell id="FhepEYHY0lq0mqFYzFcG-6" value="梅丽莎·詹姆斯" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;shadow=0;glass=0;sketch=1;fontFamily=Garamond;fontSize=12;fontColor=default;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
           <mxGeometry x="-603" y="639" width="100" height="43" as="geometry" />
         </mxCell>
-        <mxCell id="FhepEYHY0lq0mqFYzFcG-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#474747;" edge="1" parent="1" source="FhepEYHY0lq0mqFYzFcG-9" target="FhepEYHY0lq0mqFYzFcG-6">
+        <mxCell id="FhepEYHY0lq0mqFYzFcG-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#474747;" parent="1" source="FhepEYHY0lq0mqFYzFcG-9" target="FhepEYHY0lq0mqFYzFcG-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FhepEYHY0lq0mqFYzFcG-11" value="前妻" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#474747;" vertex="1" connectable="0" parent="FhepEYHY0lq0mqFYzFcG-10">
+        <mxCell id="FhepEYHY0lq0mqFYzFcG-11" value="前妻" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#474747;" parent="FhepEYHY0lq0mqFYzFcG-10" vertex="1" connectable="0">
           <mxGeometry x="-0.1429" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FhepEYHY0lq0mqFYzFcG-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#474747;" edge="1" parent="1" source="FhepEYHY0lq0mqFYzFcG-9" target="FhepEYHY0lq0mqFYzFcG-12">
+        <mxCell id="FhepEYHY0lq0mqFYzFcG-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#474747;" parent="1" source="FhepEYHY0lq0mqFYzFcG-9" target="FhepEYHY0lq0mqFYzFcG-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FhepEYHY0lq0mqFYzFcG-14" value="男友" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#474747;" vertex="1" connectable="0" parent="FhepEYHY0lq0mqFYzFcG-13">
+        <mxCell id="FhepEYHY0lq0mqFYzFcG-14" value="男友" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#474747;" parent="FhepEYHY0lq0mqFYzFcG-13" vertex="1" connectable="0">
           <mxGeometry x="-0.2063" y="4" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="FhepEYHY0lq0mqFYzFcG-9" value="&lt;span&gt;艾伦·康威&lt;br&gt;小说作者&lt;br&gt;&lt;/span&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;shadow=0;glass=0;sketch=1;fontFamily=Garamond;fontSize=12;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+        <mxCell id="FhepEYHY0lq0mqFYzFcG-9" value="&lt;span&gt;艾伦·康威&lt;br&gt;小说作者&lt;br&gt;&lt;/span&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;shadow=0;glass=0;sketch=1;fontFamily=Garamond;fontSize=12;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
           <mxGeometry x="-734" y="641.5" width="89" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="FhepEYHY0lq0mqFYzFcG-12" value="&lt;span&gt;詹姆斯·泰勒&lt;br&gt;&lt;/span&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;shadow=0;glass=0;sketch=1;fontFamily=Garamond;fontSize=12;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+        <mxCell id="FhepEYHY0lq0mqFYzFcG-12" value="&lt;span&gt;詹姆斯·泰勒&lt;br&gt;&lt;/span&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;shadow=0;glass=0;sketch=1;fontFamily=Garamond;fontSize=12;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
           <mxGeometry x="-734" y="745" width="89" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="FhepEYHY0lq0mqFYzFcG-24" value="&lt;h1 style=&quot;font-size: 15px&quot;&gt;莱昂内尔·科比&lt;/h1&gt;&lt;div&gt;案件发生时：&lt;br&gt;&lt;/div&gt;&lt;div&gt;提供的信息：&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#474747;" vertex="1" parent="1">
+        <mxCell id="FhepEYHY0lq0mqFYzFcG-24" value="&lt;h1 style=&quot;font-size: 15px&quot;&gt;莱昂内尔·科比&lt;/h1&gt;&lt;div&gt;案件发生时：&lt;br&gt;&lt;/div&gt;&lt;div&gt;提供的信息：&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;fontColor=#474747;" parent="1" vertex="1">
           <mxGeometry x="-792" y="851" width="703" height="68" as="geometry" />
         </mxCell>
       </root>
