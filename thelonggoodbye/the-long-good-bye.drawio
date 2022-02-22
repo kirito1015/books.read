@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-02-16T12:17:16.484Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="yByGIkuoMQZTxpDJ-YNF" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-22T04:55:19.794Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="hrHH-DHfGZZ60uo4egkb" version="16.6.1" type="github">
   <diagram id="CegL4EQW-R6RfhR35Qjw" name="Page-1">
-    <mxGraphModel dx="2264" dy="962" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2082" dy="811" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -59,6 +59,14 @@
             <mxPoint x="-9" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="OKHKgyV5cpci6CY0Oe2W-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zXV2b-s4_KGpaRB_lRhy-3" target="OKHKgyV5cpci6CY0Oe2W-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="OKHKgyV5cpci6CY0Oe2W-3" value="姐姐" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="OKHKgyV5cpci6CY0Oe2W-2">
+          <mxGeometry x="-0.0187" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="zXV2b-s4_KGpaRB_lRhy-3" value="西尔维亚·莱诺克斯" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="40" y="235" width="110" height="40" as="geometry" />
         </mxCell>
@@ -73,7 +81,7 @@
             <mxPoint x="2" y="3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="zXV2b-s4_KGpaRB_lRhy-9" value="门南德斯" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=0;" parent="1" vertex="1">
+        <mxCell id="zXV2b-s4_KGpaRB_lRhy-9" value="门南德斯&lt;br&gt;搞赌博" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="270" y="130" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="zXV2b-s4_KGpaRB_lRhy-10" value="兰迪·斯塔尔&lt;br&gt;水龟俱乐部" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=0;" parent="1" vertex="1">
@@ -179,10 +187,10 @@
             <mxPoint x="8" y="3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JaJFs_54jTHyrrYmdzmP-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="QYJHlzez14kCFpoKhCuW-5" target="JaJFs_54jTHyrrYmdzmP-1">
+        <mxCell id="JaJFs_54jTHyrrYmdzmP-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="QYJHlzez14kCFpoKhCuW-5" target="JaJFs_54jTHyrrYmdzmP-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JaJFs_54jTHyrrYmdzmP-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.922;exitY=-0.044;exitDx=0;exitDy=0;exitPerimeter=0;curved=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QYJHlzez14kCFpoKhCuW-5" target="QYJHlzez14kCFpoKhCuW-17">
+        <mxCell id="JaJFs_54jTHyrrYmdzmP-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.922;exitY=-0.044;exitDx=0;exitDy=0;exitPerimeter=0;curved=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" parent="1" source="QYJHlzez14kCFpoKhCuW-5" target="QYJHlzez14kCFpoKhCuW-17" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="737" y="369" />
@@ -214,8 +222,14 @@
         <mxCell id="QYJHlzez14kCFpoKhCuW-20" value="厄尔" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="1026" y="389" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="JaJFs_54jTHyrrYmdzmP-1" value="坎迪&lt;br&gt;男仆" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;sketch=0;" vertex="1" parent="1">
+        <mxCell id="JaJFs_54jTHyrrYmdzmP-1" value="坎迪&lt;br&gt;男仆" style="whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;rounded=1;sketch=0;" parent="1" vertex="1">
           <mxGeometry x="648.5" y="305" width="93" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="OKHKgyV5cpci6CY0Oe2W-1" value="琳达·洛林" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="-16" y="326" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="OKHKgyV5cpci6CY0Oe2W-4" value="大威利·马贡" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="29" width="96" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
