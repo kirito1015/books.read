@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2022-03-15T04:41:00.305Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="AB6OiFhnWLhPQ6c_grj4" version="17.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-15T05:24:42.210Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="AU2SgiI0jIsrP-LK-WVj" version="17.1.2" type="github">
   <diagram id="kwEa-XvYPqHJNM9P5Y8y" name="Page-1">
     <mxGraphModel dx="2059" dy="788" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="u2bE1SjppBddsWff6TGJ-12" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#d6b656;fillColor=#fff2cc;sketch=1;" vertex="1" parent="1">
+          <mxGeometry x="26" y="544" width="616" height="187" as="geometry" />
+        </mxCell>
         <mxCell id="xIzXu2N2-aK4Hv0oXQ2q-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="xIzXu2N2-aK4Hv0oXQ2q-1" target="xIzXu2N2-aK4Hv0oXQ2q-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -141,9 +144,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xIzXu2N2-aK4Hv0oXQ2q-29" value="雷切尔" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-120" y="553" width="110" height="45" as="geometry" />
+          <mxGeometry x="37" y="568" width="110" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="u2bE1SjppBddsWff6TGJ-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xIzXu2N2-aK4Hv0oXQ2q-30" target="xIzXu2N2-aK4Hv0oXQ2q-2">
+        <mxCell id="u2bE1SjppBddsWff6TGJ-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="xIzXu2N2-aK4Hv0oXQ2q-30" target="xIzXu2N2-aK4Hv0oXQ2q-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="u2bE1SjppBddsWff6TGJ-6" value="玩伴" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="u2bE1SjppBddsWff6TGJ-5">
@@ -152,10 +155,18 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xIzXu2N2-aK4Hv0oXQ2q-30" value="迪尔·哈里斯" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-144" y="451" width="99" height="48.5" as="geometry" />
+          <mxGeometry x="-124" y="564" width="99" height="48.5" as="geometry" />
         </mxCell>
-        <mxCell id="xIzXu2N2-aK4Hv0oXQ2q-32" value="莫迪" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="51" y="551" width="110" height="45" as="geometry" />
+        <mxCell id="u2bE1SjppBddsWff6TGJ-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#BFBFBF;strokeColor=#000000;" edge="1" parent="1" source="xIzXu2N2-aK4Hv0oXQ2q-32" target="xIzXu2N2-aK4Hv0oXQ2q-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="u2bE1SjppBddsWff6TGJ-10" value="同学" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#000000;" vertex="1" connectable="0" parent="u2bE1SjppBddsWff6TGJ-9">
+          <mxGeometry x="-0.0556" y="-2" relative="1" as="geometry">
+            <mxPoint x="3" y="-2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xIzXu2N2-aK4Hv0oXQ2q-32" value="沃尔特·坎宁安" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-175" y="453.5" width="110" height="45" as="geometry" />
         </mxCell>
         <mxCell id="xIzXu2N2-aK4Hv0oXQ2q-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;startFill=0;endArrow=classic;endFill=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="xIzXu2N2-aK4Hv0oXQ2q-33" target="xIzXu2N2-aK4Hv0oXQ2q-34" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -201,10 +212,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="xIzXu2N2-aK4Hv0oXQ2q-34" value="阿瑟·拉德利&lt;br&gt;（怪人）" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="343" y="551" width="110" height="45" as="geometry" />
+          <mxGeometry x="343" y="562" width="110" height="45" as="geometry" />
         </mxCell>
         <mxCell id="xIzXu2N2-aK4Hv0oXQ2q-37" value="内森·拉德利" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="492" y="551" width="110" height="45" as="geometry" />
+          <mxGeometry x="490" y="564" width="110" height="45" as="geometry" />
         </mxCell>
         <mxCell id="xIzXu2N2-aK4Hv0oXQ2q-41" value="汤姆·鲁滨逊&lt;br&gt;（黑人）" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="519" y="263" width="101" height="53" as="geometry" />
@@ -213,13 +224,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="xIzXu2N2-aK4Hv0oXQ2q-44" value="哈利·约翰逊" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-261" y="551" width="110" height="45" as="geometry" />
+          <mxGeometry x="-146" y="647" width="110" height="45" as="geometry" />
         </mxCell>
         <mxCell id="xIzXu2N2-aK4Hv0oXQ2q-45" value="斯蒂芬妮" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="206" y="551" width="110" height="45" as="geometry" />
+          <mxGeometry x="191" y="649" width="110" height="45" as="geometry" />
         </mxCell>
         <mxCell id="xIzXu2N2-aK4Hv0oXQ2q-46" value="蒂姆·约翰逊&lt;br&gt;（宠物狗）" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-261" y="639" width="110" height="45" as="geometry" />
+          <mxGeometry x="-146" y="735" width="110" height="45" as="geometry" />
         </mxCell>
         <mxCell id="i0vwGdIeo6l2HDmmLLKN-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="i0vwGdIeo6l2HDmmLLKN-3" target="xIzXu2N2-aK4Hv0oXQ2q-41" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -268,16 +279,28 @@
           <mxGeometry x="593" y="383" width="102" height="49" as="geometry" />
         </mxCell>
         <mxCell id="i0vwGdIeo6l2HDmmLLKN-9" value="约翰·泰勒&lt;br&gt;法官" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="541" y="167" width="104" height="54" as="geometry" />
+          <mxGeometry x="519" y="167" width="104" height="54" as="geometry" />
         </mxCell>
         <mxCell id="i0vwGdIeo6l2HDmmLLKN-10" value="赫克·泰特&lt;br&gt;警长" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="710" y="166" width="104" height="55" as="geometry" />
+          <mxGeometry x="695" y="166" width="104" height="55" as="geometry" />
         </mxCell>
         <mxCell id="i0vwGdIeo6l2HDmmLLKN-11" value="吉尔莫" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="741" y="285" width="86" height="44" as="geometry" />
         </mxCell>
         <mxCell id="i0vwGdIeo6l2HDmmLLKN-14" value="马耶拉·尤厄尔" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="748" y="485" width="89" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="u2bE1SjppBddsWff6TGJ-7" value="欧拉·梅&lt;br&gt;接线员" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="81" y="756" width="110" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="u2bE1SjppBddsWff6TGJ-8" value="莫迪" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="191" y="571" width="110" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="u2bE1SjppBddsWff6TGJ-13" value="邻居" style="text;html=1;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;sketch=1;fontColor=#FFCE9F;labelBorderColor=none;labelBackgroundColor=none;fontStyle=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="545" y="529" width="79" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u2bE1SjppBddsWff6TGJ-14" value="杜博斯太太" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="43" y="649" width="110" height="45" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
