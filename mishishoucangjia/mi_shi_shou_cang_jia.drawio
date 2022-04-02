@@ -1,28 +1,43 @@
-<mxfile host="app.diagrams.net" modified="2022-03-30T13:59:39.637Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="wldrEe7WbowiF8Z8rd0o" version="17.2.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-02T09:57:40.130Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.74 Safari/537.36" etag="C74qHt19aEI1_QtZXYkm" version="17.3.0" type="github">
   <diagram id="yF04vn__YGDTlUzfl8FH" name="Page-1">
     <mxGraphModel dx="1252" dy="808" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="vIyPSuhg6ZEdeK6VfOUW-1" value="君塚老师&lt;br&gt;被谋杀在音乐教室" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-ScORoDIUVeQgr79LFBn-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="490" width="380" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="-ScORoDIUVeQgr79LFBn-4" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="250" width="380" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="vIyPSuhg6ZEdeK6VfOUW-1" value="君塚老师&lt;br&gt;被谋杀在音乐教室" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="340" y="380" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="vIyPSuhg6ZEdeK6VfOUW-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vIyPSuhg6ZEdeK6VfOUW-2" target="vIyPSuhg6ZEdeK6VfOUW-1">
+        <mxCell id="vIyPSuhg6ZEdeK6VfOUW-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="vIyPSuhg6ZEdeK6VfOUW-2" target="vIyPSuhg6ZEdeK6VfOUW-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vIyPSuhg6ZEdeK6VfOUW-6" value="目击" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vIyPSuhg6ZEdeK6VfOUW-5">
+        <mxCell id="vIyPSuhg6ZEdeK6VfOUW-6" value="目击" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="vIyPSuhg6ZEdeK6VfOUW-5" vertex="1" connectable="0">
           <mxGeometry x="-0.1333" y="-1" relative="1" as="geometry">
             <mxPoint y="-2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vIyPSuhg6ZEdeK6VfOUW-2" value="千鹤" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vIyPSuhg6ZEdeK6VfOUW-2" value="千鹤" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="190" y="380" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="vIyPSuhg6ZEdeK6VfOUW-3" value="桥爪&lt;br&gt;值班老师" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vIyPSuhg6ZEdeK6VfOUW-3" value="桥爪&lt;br&gt;值班老师" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="200" y="280" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="vIyPSuhg6ZEdeK6VfOUW-4" value="堂岛&lt;br&gt;校工" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="vIyPSuhg6ZEdeK6VfOUW-4" value="堂岛&lt;br&gt;校工" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="280" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-ScORoDIUVeQgr79LFBn-1" value="鬼头真澄&lt;br&gt;少女" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="540" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-ScORoDIUVeQgr79LFBn-2" value="筱山薰&lt;br&gt;少男" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="540" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="-ScORoDIUVeQgr79LFBn-3" value="柏木&lt;br&gt;警官" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="620" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
